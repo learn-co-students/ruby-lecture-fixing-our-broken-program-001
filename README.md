@@ -4,6 +4,9 @@ language: ruby
 type: video
 ---
 
+
+TEST03!
+
 # Fixing Our Broken Program
 
 [MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/ruby/ruby-lecture-fixing-our-broken-program/ruby-lecture-fixing-our-broken-program.mp4)
